@@ -1,0 +1,23 @@
+{
+    "questions": {
+        "question": "It is done this app?",
+        "answers": [
+            { 
+                "text": "Nope", 
+                "correct": true 
+            },
+            { 
+                "text": "Yes, ofc", 
+                "correct": false
+            },
+            { 
+                "text": "test 1",
+                "correct": false
+            },
+            { 
+                "text": "test 2", 
+                "correct": false
+            }
+        ]
+    }
+}
